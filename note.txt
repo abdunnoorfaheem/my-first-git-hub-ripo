@@ -1,0 +1,6 @@
+1.git init
+2.git add .
+3.git commit -m "first commit"
+4.git config --global user.email"a@gmail.com"[if use 1st in PC]
+5.git config --global user.name "abnoor"[if use 1st in PC]
+6.git config -l [which id log in]
